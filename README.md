@@ -6,7 +6,7 @@ For storing all my achieved certificates
 
 1. [GitHub Foundation Certificate](./GitHub/GitHub+Foundations.pdf)
 
-## Plan to study
+## Study Plan
 
 ### Web Development :globe_with_meridians:
 
